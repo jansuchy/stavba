@@ -34,7 +34,7 @@ když je potřeba naboxovat balík pod okno nebo přirazit ke stěně před uvá
 Výroba je snadná, já jsem provrtal odřezek BSH průvlaku a prostrčil násadu na
 lopatu.
 
-![Persuader](/images/slamene-steny/persuader.jpg)
+![Persuader]({{ site.url }}/images/slamene-steny/persuader.jpg)
 
 
 T30 na tyči
@@ -45,9 +45,9 @@ vyřešit dodatečně, aniž bych stěnu rozebíral, a tak vznikla tahle jednodu
 pomůcka: Šroubovací bit Torx 30 přivařený na 60 cm dlouhé tyči. Posléze našla
 využití mnohem častěji. Viz níže.
 
-![T30-on-a-stick](/images/slamene-steny/t30-na-tyci.jpg)
+![T30-on-a-stick]({{ site.url }}/images/slamene-steny/t30-na-tyci.jpg)
 
-![T30-on-a-stick detail](/images/slamene-steny/t30-na-tyci-detail.jpg)
+![T30-on-a-stick detail]({{ site.url }}/images/slamene-steny/t30-na-tyci-detail.jpg)
 
 
 Přichycení popruhů
@@ -65,22 +65,21 @@ Přidávám ukázku přichycení balíku úvazkem z PP popruhu. Většinou jsem 
 umísťoval mezi dva sousední balíky. Občas - ponejvíce u nároží - bylo třeba
 balíky propíchnout a přichytit uprostřed.
 
-![1 Připravený popruh šíře 20mm.](/images/slamene-steny/popruh.jpg)
-![2 Vrut s velkou plochou hlavou cca 15mm.](/images/slamene-steny/vrut-6x40-s-velkou-plochou-hlavou.jpg)
+![1 Připravený popruh šíře 20mm.]({{ site.url }}/images/slamene-steny/popruh.jpg)
+![2 Vrut s velkou plochou hlavou cca 15mm.]({{ site.url }}/images/slamene-steny/vrut-6x40-s-velkou-plochou-hlavou.jpg)
 
 V dřevěné konstrukci vězí vrut 6x40 s velkou plochou hlavou. Jedině na torx - PZ
 a podobné se při šroubování snadno vysmeknou a se šroubovákem na delší tyči to
 bude ještě horší.
 
-![3 Nasaď na tyč.](/images/slamene-steny/nasad-na-tyc.jpg)
-![4 Propíchni balík.](/images/slamene-steny/propichni-balik.jpg)
-![5 Bacha na utahovací moment, pokud je v místě jen OSB. Nesmí se protočit](/images/slamene-steny/prisroubuj-bacha-na-moment.jpg)
-![6 A je to.](/images/slamene-steny/a-je-to.jpg)
+![3 Nasaď na tyč.]({{ site.url }}/images/slamene-steny/nasad-na-tyc.jpg)
+![4 Propíchni balík.]({{ site.url }}/images/slamene-steny/propichni-balik.jpg)
+![5 Bacha na utahovací moment, pokud je v místě jen OSB. Nesmí se protočit]({{ site.url }}/images/slamene-steny/prisroubuj-bacha-na-moment.jpg)
+![6 A je to.]({{ site.url }}/images/slamene-steny/a-je-to.jpg)
 
 Moment na šroubováku doporučuju nastavit raději nižší. Párkrát jsem trefil
 slabší místo v OSB a vrut se protočil. To pak nezbývá než vytrhnout, přelepit
 air-stop páskou a zkusit znovu kus vedle.
-
 
 
 Obousměrná jehla
@@ -90,8 +89,8 @@ Na nároží jsem sešíval balíky provázkem, aby se nerozjížděly. K tomu s
 jehla, která umí tahat provázek na obě strany. I přes to jsou balíky na nároží
 trochu hůř přitažené a nároží se trochu "nafukuje".
 
-![Obousměrná jehla](/images/slamene-steny/jehla.jpg)
-![Jehla detail](/images/slamene-steny/jehla-detail.jpg)
+![Obousměrná jehla]({{ site.url }}/images/slamene-steny/jehla.jpg)
+![Jehla detail]({{ site.url }}/images/slamene-steny/jehla-detail.jpg)
 
 
 Přivazování bambusu
@@ -99,20 +98,20 @@ Přivazování bambusu
 
 Osvědčilo se mi pomoct si dalším popruhem a kusem pevné PE fólie.
 
-![Kus pevné hladké PE fólie.](/images/slamene-steny/hdpe-folie.jpg)
-![Připravený úvazek.](/images/slamene-steny/pripraveny-uvazek.jpg)
-![1 Přivaž bambus na fólii a utááhni.](/images/slamene-steny/privaz-bambus-na-foli-utaaahni.jpg)
+![Kus pevné hladké PE fólie.]({{ site.url }}/images/slamene-steny/hdpe-folie.jpg)
+![Připravený úvazek.]({{ site.url }}/images/slamene-steny/pripraveny-uvazek.jpg)
+![1 Přivaž bambus na fólii a utááhni.]({{ site.url }}/images/slamene-steny/privaz-bambus-na-foli-utaaahni.jpg)
 
 Když bambusovou tyčku přivážeš nejdřív svisle, schová se do spáry mezi balíky a
 dokážeš ji bez většího úsilí dobře přitáhnout.
 
-![2 Popruh usnadní otočení tyčky.](/images/slamene-steny/popruh-pro-snadne-otoceni.jpg)
-![3 Do polohy kolmé na stébla](/images/slamene-steny/jde-to-samo.jpg)
+![2 Popruh usnadní otočení tyčky.]({{ site.url }}/images/slamene-steny/popruh-pro-snadne-otoceni.jpg)
+![3 Do polohy kolmé na stébla]({{ site.url }}/images/slamene-steny/jde-to-samo.jpg)
 
 Otočením se úvazek pěkně napruží. Bacha, úvazek jde takhle snadno přitáhnout až
 příliš. Balíky na stěně se pak víc vlní. Když dobře uvážeš a utáhneš ambulanční
 a přes něj ještě jeden uzel, bude to držet dost pevně (resp. jde to povolit fakt
 blbě). Následné zaomítnutí uzel pojistí.
 
-
-![4 A je to.](/images/slamene-steny/jde-to-i-vyndat.jpg) [](/images/slamene-steny/finito.jpg)
+![4 A je to.]({{ site.url }}/images/slamene-steny/jde-to-i-vyndat.jpg)
+![5 Finito.]({{ site.url }}/images/slamene-steny/finito.jpg)
