@@ -1,3 +1,4 @@
 encoding: utf-8
 paginate: 5
 markdown: kramdown
+exclude: [Gemfile, Gemfile.lock]
