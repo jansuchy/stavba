@@ -1,0 +1,63 @@
+body {
+    font-family: "Open Sans";
+}
+
+hr {
+    color: #ddd;
+}
+
+a {
+    color: #07c;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #4a6b82;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1010px;
+}
+
+.nav {
+    line-height: 3;
+}
+
+.nav a {
+    color: inherit;
+}
+
+.nav-title {
+    float: left;
+    width: 50%;
+}
+
+.nav-links {
+    float: right;
+    text-align: right;
+    width: 50%;
+}
+
+.nav-links > a {
+    margin: 0.5em;
+}
+
+header hr {
+    clear: both;
+    margin: 1em 0;
+}
+
+.nav-icon {
+    margin-right: 6px;
+    vertical-align: middle;
+}
+
+.pagination-icon {
+    min-width: 32px;
+    vertical-align: middle;
+}

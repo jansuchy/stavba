@@ -1,0 +1,13 @@
+<meta charset="utf-8">
+<title>{{ site.description }}</title>
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+{% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
+<link rel="stylesheet" href="//cdn.jsdelivr.net/normalize/3.0.1/normalize.min.css" type="text/css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/octicons/2.0.1/octicons.css" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/lightbox2/2.7.1/css/lightbox.css" type="text/css">
+<link rel="stylesheet" href="/css/main.css" type="text/css">
+<script type="text/javascript" src="/js/lightboxify.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/lightbox2/2.7.1/js/lightbox.js"></script>
+
