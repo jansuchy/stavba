@@ -1,5 +1,5 @@
 encoding: utf-8
 paginate: 5
 markdown: kramdown
-exclude: [Gemfile, Gemfile.lock]
+exclude: [Gemfile, Gemfile.lock, Rakefile]
 baseurl: /stavba
